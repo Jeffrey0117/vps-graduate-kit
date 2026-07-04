@@ -1,0 +1,8 @@
+config.sh
+*.manifest.sh
+deployd/registry.json
+node_modules/
+.env
+.env.*
+*.secret
+.DS_Store

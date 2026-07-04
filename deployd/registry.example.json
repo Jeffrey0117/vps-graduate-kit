@@ -1,0 +1,3 @@
+{
+  "YourGithubUser/example-app": { "dir": "/opt/example-app", "service": "example-app", "branch": "main", "build": "npm install" }
+}
