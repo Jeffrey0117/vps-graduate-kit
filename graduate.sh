@@ -71,6 +71,15 @@ EnvironmentFile=/opt/$NAME/.env
 ExecStart=$EXEC
 Restart=always
 RestartSec=3
+MemoryHigh=400M
+MemoryMax=800M
+MemorySwapMax=0
+CPUQuota=90%
+TasksMax=512
+LimitNOFILE=65536
+NoNewPrivileges=yes
+ProtectHome=yes
+PrivateTmp=yes
 [Install]
 WantedBy=multi-user.target
 UNITEOF
