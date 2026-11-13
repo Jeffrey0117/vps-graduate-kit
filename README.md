@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="vps-graduate-kit logo">
+</p>
+
 # 🎓 vps-graduate-kit
 
 把一台便宜的 VPS 變成「**push 就自動部署**」的迷你 PaaS，並用**一行指令**把任何專案（任何語言）搬上去。
